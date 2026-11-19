@@ -1,0 +1,11 @@
+{
+  "name": "payroll-system-sad236",
+  "version": "1.0.0",
+  "description": "Цалин тооцооллын систем: цалин бодох логик ба CI (SAD236, Лаборатори 12)",
+  "main": "src/payroll.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "license": "ISC"
+}
